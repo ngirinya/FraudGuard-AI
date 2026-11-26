@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # FraudGuard AI
 
 An intelligent financial fraud detection platform
@@ -21,3 +22,7 @@ built with Python and Machine Learning.
 - Streamlit
 - FastAPI
 - SQL
+=======
+# FraudGuard-AI
+Intelligent Financial Fraud Detection Platform using Python and Machine Learning
+>>>>>>> f5fa3da3f8edbf36621518bdf78d367bf2a870dd
